@@ -26,5 +26,5 @@ Please download it manually from Kaggle:
 After downloading:
 1. Extract the folder
 2. Rename it (if needed) to `tiny-imagenet-200`
-3. Place it in the root or `data/` directory of this project
+3. Place it in the root directory of this project
 
